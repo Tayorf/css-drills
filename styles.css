@@ -1,0 +1,27 @@
+h2 {
+    font-family: tahoma;
+}
+
+body {
+    background-color: lightgray;
+}
+
+h2,
+p,
+.readme-wrapper {
+    text-align: center;
+}
+
+a:hover {
+    color: darkcyan;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+span{
+    color:red;
+    font-weight: 700;
+}
