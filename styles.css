@@ -25,3 +25,22 @@ span{
     color:red;
     font-weight: 700;
 }
+.boxes{
+    margin: 3px;
+    padding: 4;
+    border-style: solid; 
+    border-color: black;
+    border-radius: 30px;
+    width: 30em;
+}
+#box1{
+    background-color: lightblue;
+}
+#box2
+{background-color: lightcoral;}
+#box3{ 
+    background-color: lightgreen;
+}
+#box4{
+    background-color: lightseagreen;
+}
