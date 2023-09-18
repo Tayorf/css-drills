@@ -61,5 +61,33 @@ span {
     position: absolute;
     right:100px;
     left:100px;
-    
+}
+#one{
+    color:red;
+}
+#two{
+    color:orange;
+}
+#three{
+    color: yellow;
+}
+#four{
+    color: green;
+}
+#five{
+    color: blue;
+}
+.Star{
+   color: cornflowerblue;
+}
+ul{
+    color: azure;
+}
+#wars{
+    color: hotpink;
+}
+.list{
+    border:2px;
+    border-color: black;
+    border-style: solid;
 }
